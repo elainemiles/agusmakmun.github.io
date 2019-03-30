@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+A place to put all of my internet and coding adventures.  Main topics will
+include: Magic the Gathering, Machine Learning, Machine Learning with Magic
+the Gathering.
 
-email: agus[at]python.web.id
+email: elaine.miles[at]gmail.com

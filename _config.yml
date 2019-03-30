@@ -1,11 +1,15 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
-avatar_url: /static/img/avatar.jpg
+title: Elaine's Quest
+description: "A place to put all of my internet and coding adventures.  Main topics will
+include: Magic the Gathering, Machine Learning, Machine Learning with Magic
+the Gathering."
+author: Elaine Miles
+github: https://github.com/elainemiles
+about: "A place to put all of my internet and coding adventures.  Main topics will
+include: Magic the Gathering, Machine Learning, Machine Learning with Magic
+the Gathering."
+# disqus_shortname: stackproblems
+# google_analytics: UA-XXXXXXXX-Y
+avatar_url: /static/img/bitmoji.png
 
 enableTags: true
 tagarray: []
@@ -16,30 +20,30 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "#"
+    # - icon: fa-facebook
+    #   link: "#"
+    # - icon: fa-twitter
+    #   link: "#"
     - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "mileselaine"
+    # - icon: fa-stack-exchange
+    #   link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/elainemiles"
 
-share:
-  twitter_username: github.io
-  fb_appid: 1749788565247320
+# share:
+#   twitter_username: github.io
+#   fb_appid: 1749788565247320
 
 urls:
     - text: About Me
       url: /about/
-    - text: My Projects
-      url: /projects/
-    - text: XML Feed
-      url: /feed.xml
+    # - text: My Projects
+    #   url: /projects/
+    # - text: XML Feed
+    #   url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://elainemiles.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
